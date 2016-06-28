@@ -13,6 +13,6 @@ GitHub repository for Techiecam's Server.
 
 # To-Do List
 
-  [x] Update to 1.10
-  [x] Install Spigot
-  [ ] Update Plugins
+- [x] Update to 1.10
+- [x] Install Spigot
+- [ ] Update Plugins
