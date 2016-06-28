@@ -18,8 +18,8 @@ GitHub repository for Techiecam's Server.
 - [ ] Update Plugins
 
 
-## Test Quote
+### Test Quote
 
 > The doctor said all my bleading is internal
-  which means that its where it's supposed to be.
+  which means the blood is where it's supposed to be.
 > Det. Jake Parolta, Brooklyn Nine-Nine
