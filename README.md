@@ -22,4 +22,4 @@ GitHub repository for Techiecam's Server.
 
 > The doctor said all my bleading is internal
   which means the blood is where it's supposed to be.
-> Det. Jake Parolta, Brooklyn Nine-Nine
+> - Det. Jake Parolta, Brooklyn Nine-Nine
