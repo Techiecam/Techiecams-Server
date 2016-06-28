@@ -10,3 +10,9 @@ GitHub repository for Techiecam's Server.
 * Runs: Spigot
 * Accepts: 10 players
 * Whitelisted
+
+# To-Do List
+
+  [x] Update to 1.10
+  [x] Install Spigot
+  [ ] Update Plugins
