@@ -1,4 +1,4 @@
-![alt tag](http://i.imgur.com/a/BAIFC.png)
+![alt tag](http://i.imgur.com/a/BAIFC)
 
 # Techiecam's Server
 
