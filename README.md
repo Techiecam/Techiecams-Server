@@ -20,6 +20,6 @@ GitHub repository for Techiecam's Server.
 
 #### Test Quote
 
-> *The doctor said all my bleeding is internal
-  which means the blood is where it's supposed to be.*
+> *"The doctor said all my bleeding is internal
+  which means the blood is where it's supposed to be."*
 > Det. Jake Parolta, Brooklyn Nine-Nine
