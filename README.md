@@ -16,3 +16,9 @@ GitHub repository for Techiecam's Server.
 - [x] Update to 1.10
 - [x] Install Spigot
 - [ ] Update Plugins
+
+#### Test Quote
+
+> *"The doctor said all my bleeding is internal
+  which means the blood is where it's supposed to be."*
+> Det. Jake Parolta, Brooklyn Nine-Nine
