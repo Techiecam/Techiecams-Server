@@ -1,4 +1,4 @@
-![alt tag](http://i.imgur.com/SIlr2.jpg)
+![alt tag](http://imgur.com/a/SIlr2.png)
 
 # Techiecam's Server
 
