@@ -6,6 +6,7 @@ GitHub repository for Techiecam's Server.
 
 # Info
 
-- Version: 1.10
-
+- Minecraft version: 1.10
 - Runs Spigot
+- Accepts 10 players
+- Whitelisted
