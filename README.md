@@ -6,14 +6,18 @@
 
 GitHub repository for Techiecam's Server.
 
-# Info
+##Table of Contents
+* [Info](#info)
+* [To-Do List](#to-do-list)
+
+## Info
 
 * Minecraft version: 1.10
 * Runs: Spigot
 * Accepts: 10 players
 * Whitelisted
 
-# To-Do List
+## To-Do List
 
 - [x] Update to 1.10
 - [x] Install Spigot
