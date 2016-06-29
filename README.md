@@ -22,3 +22,11 @@ GitHub repository for Techiecam's Server.
 - [x] Update to 1.10
 - [x] Install Spigot
 - [ ] Update Plugins
+
+## Liscense
+
+Copyright © 2016 Cameron (http://techiecam.wix.com/server)
+
+You may use this work to help improve it or as an example. You may not distribute it or use it commercially.
+
+
