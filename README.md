@@ -1,5 +1,7 @@
 ![alt tag](https://cloud.githubusercontent.com/assets/20188037/16421438/08489afa-3da9-11e6-84c2-8c7ba267add8.PNG)
 
+[![alt tag](https://img.shields.io/github/release/Techiecam/Techiecams-Server.svg?label=Latest Release)](https://github.com/Techiecam/Techiecams-Server/releases)
+
 # Techiecam's Server
 
 GitHub repository for Techiecam's Server.
